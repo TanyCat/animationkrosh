@@ -1,0 +1,12 @@
+.body_setting {
+  overflow: hidden;
+}
+
+.wrapper__ball {
+  position: absolute;
+}
+
+.test {
+  width: 16rem;
+  height: auto;
+}
